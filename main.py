@@ -1,3 +1,2 @@
 print("Hello, world!")
-<<<<<<< HEAD
-print(100 ** 105)
+print(100 ** 100)
